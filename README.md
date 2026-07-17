@@ -4,11 +4,11 @@ Visual representation of an algorithm designed to generate 3D simplyfied gear mo
 
 ## Table of contents
 
-1. How to run
+**1. How to run**
 
-2. Requirements
+**2. Requirements**
 
-3. File structure
+**3. File structure**
 
 ---
 

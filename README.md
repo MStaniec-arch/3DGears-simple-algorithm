@@ -1,6 +1,12 @@
 # 3DGears-simple-algorithm
 
-Visual representation of an algorithm designed to generate 3D simplyfied gear models with teeth of the same size every time. It takes an input in form of tooth's size and the number of teeth the cogwheel is supposed to have before turning these two number into a mesh in a shape of a cog. It can also cover the mesh with provided texture.
+
+|   |   |
+|---|---|
+| ![Icon](icon.png) | Visual representation of an algorithm designed to generate 3D simplyfied gear models with teeth of the same size every time. It takes an input in form of tooth's size and the number of teeth the cogwheel is supposed to have before turning these two number into a mesh in a shape of a cog. It can also cover the mesh with provided texture. |
+|   |   |
+
+---
 
 ## Table of contents
 
@@ -9,10 +15,6 @@ Visual representation of an algorithm designed to generate 3D simplyfied gear mo
 **2. Requirements**
 
 **3. File structure**
-
----
-
-![Icon](icon.png)
 
 ---
 
